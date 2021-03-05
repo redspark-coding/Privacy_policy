@@ -1,4 +1,4 @@
-##Privacy Policy
+**Privacy Policy**
 
 Redspark-Coding built the "Premiers mots" app as a Free app. This SERVICE is provided by Redspark-Coding at no cost and is intended for use as is.
 
