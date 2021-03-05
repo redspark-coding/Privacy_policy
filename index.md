@@ -1,4 +1,4 @@
-**Privacy Policy**
+##Privacy Policy
 
 Redspark-Coding built the "Premiers mots" app as a Free app. This SERVICE is provided by Redspark-Coding at no cost and is intended for use as is.
 
@@ -9,9 +9,7 @@ If you choose to use the app, then you agree to the collection and use of inform
 
 **Information Collection and Use**
 
-The app "Premiers mots" is not collecting any Personal Information. However, the app does use third party services that may collect information used to identify you, like Google Play Services.
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+The app "Premiers mots" is not collecting any Personal Information. However, the app does use third party services that may collect information used to identify you, like Google Play Services (https://www.google.com/policies/privacy/).
 
 
 **Log Data**
